@@ -1,10 +1,10 @@
-# [Hi, mom!]([link-to-project1](https://twitter.com/fireship_dev/status/1707776910619726226)) 👋
+# Hi, mom! 👋
 
-I'm Mario and I'm a web developer from São Paulo, Brazil and I work at [@Folha](https://github.com/FolhaSP) as System Architect.
+I'm Mario and I'm a web developer from São Paulo, Brazil. I work at [@Folha](https://github.com/FolhaSP) as System Architect.
 
-## 🔧 Technologies & Tools
+# 🔧 Technologies & Tools
 
-- PHP, Laravel, Elasticsearch, Redis, Varnish, API Development, MySQL...
+- PHP, Laravel, Elasticsearch, Redis, Varnish, API Development, MySQL
 
 ## 📫 Where to find me
 
